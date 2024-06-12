@@ -24,7 +24,7 @@ Feel free to reach out to me for collaboration, freelance opportunities, or just
 
 ## Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rassilo)](https://github.com/rassilo/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rassilo&theme=onedark)](https://github.com/rassilo/github-profile-trophy)
 
 ## GitHub Stats
 
