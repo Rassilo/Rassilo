@@ -13,22 +13,6 @@ With a passion for technology and innovation, I excel in developing and executin
 - **System Evaluation and Optimization**: Analyzing and improving systems and infrastructure for maximum efficiency.
 - **Freelance Expertise**: Extensive experience in analyzing, designing, developing, and deploying projects across various platforms and technologies.
 
-## Projects
-
-### Project 1: [Project Name](link)
-- **Description**: A brief overview of the project, its objectives, and outcomes.
-- **Technologies Used**: List of technologies used in the project.
-- **Role**: Your specific role and contributions to the project.
-
-### Project 2: [Project Name](link)
-- **Description**: A brief overview of the project, its objectives, and outcomes.
-- **Technologies Used**: List of technologies used in the project.
-- **Role**: Your specific role and contributions to the project.
-
-### Project 3: [Project Name](link)
-- **Description**: A brief overview of the project, its objectives, and outcomes.
-- **Technologies Used**: List of technologies used in the project.
-- **Role**: Your specific role and contributions to the project.
 
 ## Contact
 
@@ -37,6 +21,10 @@ Feel free to reach out to me for collaboration, freelance opportunities, or just
 - **Email**: [rassil@laevitas.ch](mailto:rassil@laevitas.ch)
 - **LinkedIn**: [Rassil Ben Rhouma](https://www.linkedin.com/in/rassilbr)
 - **Twitter**: [@rassilbr](https://twitter.com/rassilbr)
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rassilo)](https://github.com/rassilo/github-profile-trophy)
 
 ## GitHub Stats
 
