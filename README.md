@@ -34,16 +34,16 @@ With a passion for technology and innovation, I excel in developing and executin
 
 Feel free to reach out to me for collaboration, freelance opportunities, or just to connect!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: [rassil@laevitas.ch](mailto:rassil@laevitas.ch)
+- **LinkedIn**: [Rassil Ben Rhouma](https://www.linkedin.com/in/rassilbr)
+- **Twitter**: [@rassilbr](https://twitter.com/rassilbr)
 
 ## GitHub Stats
 
-![Rassil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Rassil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rassilo&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rassilo&layout=compact&theme=radical)
 
 Thank you for visiting my profile! Let's innovate and create something amazing together.
